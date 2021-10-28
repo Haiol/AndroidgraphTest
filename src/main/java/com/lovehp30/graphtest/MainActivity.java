@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
 
         Description description = new Description();
         description.setText("");
-
+        //드로잉
         lineChart.setDoubleTapToZoomEnabled(false);
         lineChart.setDrawGridBackground(false);
         lineChart.setDescription(description);
